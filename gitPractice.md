@@ -1,0 +1,1 @@
+Make git status your best friend.
